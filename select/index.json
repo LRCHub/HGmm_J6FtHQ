@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Play Back End Roll",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-02-20T16:03:09.955342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Play Back End Roll",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_Play_Back_End_Roll_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Play Back End Roll",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_Play_Back_End_Roll_indigo_la_End.txt"
+    }
+  ]
+}
